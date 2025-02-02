@@ -1,0 +1,13 @@
+@import url('./xy-theme.css');
+ 
+html,
+body {
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  font-size: 14px;
+}
+
+ 
+#app {
+  width: 50w;
+  height:50vh;
+}
